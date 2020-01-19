@@ -1,4 +1,4 @@
-# vuePreset
+# {{name}}
 
 ## Project setup
 ```
